@@ -1,4 +1,4 @@
-# YTLitePlusEXTRA
+# YTLitePlusREVISED
 This is a fork repo from YTLite,but add more tweaks similar to YTLitePlus.
 This is just an another alternative for who can't build IPA in YTLitePlus or The app is unusable.
 If you have any problems,feel free to open issues.
@@ -17,7 +17,7 @@ Also if you see a popup says "Incompatible Tweaks Detected",just check on "Don't
 ## FAQ
 - [🇺🇸 English FAQ](FAQs/FAQ_EN.md)
 
-## How to build a YTLitePlusEXTRA IPA using Github actions
+## How to build a YTLitePlusREVISED IPA using Github actions
 > [!NOTE]
 > If this your first time, complete following steps before starting:
 >
@@ -25,7 +25,7 @@ Also if you see a popup says "Incompatible Tweaks Detected",just check on "Don't
 > 2. On your forked repository, go to **Repository Settings** > **Actions**, enable **Read and Write** permissions.
 
 <details>
-  <summary>How to build the YTLitePlusEXTRA IPA</summary>
+  <summary>How to build the YTLitePlusREVISED IPA</summary>
   <ol>
     <li>Click on <strong>Sync fork</strong>, and if your branch is out-of-date, click on <strong>Update branch</strong>.</li>
     <li>Navigate to the <strong>Actions tab</strong> in your forked repository and select <strong>Create YTLitePlusEXTRA IPA. ( Make sure you choose For Sideloading or Not For Sideloading workflow for your target device and DON'T USE FOR TESTING ONE )</strong></li>
