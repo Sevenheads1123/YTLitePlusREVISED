@@ -1,5 +1,5 @@
 # YTLitePlusREVISED
-This is a fork repo from YTLite,but add more tweaks similar to YTLitePlus.
+This is a fork repo from YTLitePlusEXTRA, adding more QOL tweaks to the YouTube app.
 This is just an another alternative for who can't build IPA in YTLitePlus or The app is unusable.
 If you have any problems,feel free to open issues.
 Also if you see a popup says "Incompatible Tweaks Detected",just check on "Don't show for this version",click on "I accept all risks" and ignore it.
