@@ -1,4 +1,6 @@
-# YTLitePlusREVISED
+# YTLitePlusREVISED (I literally only made this to use for personal use so KEEP THAT IN MIND LOL)
+With that out of the way...
+
 This is a fork repo from YTLitePlusEXTRA, adding more QOL tweaks to the YouTube app.
 This is just an another alternative for who can't build IPA in YTLitePlus or The app is unusable.
 If you have any problems,feel free to open issues.
